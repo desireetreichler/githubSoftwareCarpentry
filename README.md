@@ -1,6 +1,9 @@
 # githubSoftwareCarpentry
 github software carpentry course
 
+Etherpad: http://pad.software-carpentry.org/2017-05-24-github
+______________________________________________________________
+
 Difference between corporate and private account: with uio account you cannot make your repository public. Github private: everything is public (unless you pay)
 
 This readme: stored as markdown language. 
