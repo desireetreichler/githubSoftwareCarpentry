@@ -72,7 +72,7 @@ https://desireetreichler.github.io/guacamole-recipe/
 To add a photo:  
 * _use Google > Tools > Usage rights "for reuse" if you want to be sure not to violate any usage rights!_ 
 * upload the file to your repository
-* to add it: ![](link_to_file)
+* to add it: exclamation mark[]() ![](link_to_file)
 
 To do more advanced edits (e.g. size of the image etc), you can put html code into your markdown text files. 
 
