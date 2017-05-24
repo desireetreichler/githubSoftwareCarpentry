@@ -36,10 +36,26 @@ Comments: Possible on commits only, not on the file directly! - but you can clic
 https://github.com/desireetreichler/guacamole-recipe/blob/master/instructions#L4
 
 Issues: (tab)
-Create a new task to to. Written in markdown. You can also assign this to a person and discuss it interactively (in comments)
+Create a new task to to. Written in markdown. You can also assign this to a person and discuss it interactively (in comments) 
+When closing issues, you can refer to pull requests/issues (see below) by typing hashtag, then a list of all linkable actions pops up.
+
+New branch: create one to try out things. Can be merged later!
+* either in the main project view manually
+* or when commiting a change - instead of pushing it onto the master branch. Usually followed by the invitation to create a new pull request, good practice.
 
 Pull requests: (tab)
-Requires that first a new branch is opened, and something is changed there - for example, the instructions list. 
+(requires that first a new branch is opened, and something is changed there - for example, the instructions list) 
+Create a pull request: will show up as a commit, and give everyone the opportunity to comment on it. 
+Reviewing pull requests: check the changes and comment on them interactively. In the comments, you can refer to an issue by typing hashtag for a list of linkable actions.  
+It is also possible to request the changes and block the pull request until the reviews are done!
+Following step: confirm merge - can be the same person, or someone else, or the owner of the project, subject to internal customs/rules in the collaboration project (:
+
+Conflicts: If a pull request results in a conflict (because the two branches edit the same line), this ought to be resolved - there is an option to do this in an editor (link comes up), manually. If ignored, some remaining conflict text (lots of >>> and ===) will stay in the file!
 
 
-To print it: plugin in chrome, or clone it locally and use the tools there.
+Collaborate with a project that I am not officially collaborator on:
+
+
+
+
+To print this in a formatted style: plugin in chrome, or clone it locally and use the tools there.
