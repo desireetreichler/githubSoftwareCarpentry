@@ -1,7 +1,7 @@
 # githubSoftwareCarpentry
 github software carpentry course
 
-Etherpad: http://pad.software-carpentry.org/2017-05-24-github
+Etherpad: http://pad.software-carpentry.org/2017-05-24-github  
 Project we work on: https://github.com/desireetreichler/guacamole-recipe
 ______________________________________________________________
 
